@@ -19,7 +19,7 @@ In IBM Model 1, the only consideration is lexical translations of words which me
 Because IBM Model 1 does not consider the alignment of the words and takes all alignment probabilities equally, a new model was introduced by IBM which is IBM Model 2. In IBM Model 2, in addition to the lexical translation model, alignment probabilities were introduced for probability calculation. The result of IBM Model 2 outputs alignment probabilities and word translation probabilities.
 
 #### Want to know more?
-Please read the [problem statement](https://github.com/Vitthal98/Cross-Lingual-Document-Translator), [design report](https://github.com/Vitthal98/Cross-Lingual-Document-Translator/blob/main/Design_Document.pdf) and [results document](https://github.com/Vitthal98/Cross-Lingual-Document-Translator/blob/main/Result%20Document.pdf) as they contain detailed information about the datasets used, methods implemented, results obtained and discussion.
+Please read the [problem statement](https://github.com/Vitthal98/Cross-Lingual-Document-Translator/blob/main/Problem%20Statement.pdf), [design report](https://github.com/Vitthal98/Cross-Lingual-Document-Translator/blob/main/Design_Document.pdf) and [results document](https://github.com/Vitthal98/Cross-Lingual-Document-Translator/blob/main/Result%20Document.pdf) as they contain detailed information about the datasets used, methods implemented, results obtained and discussion.
 
 For any doubts don't hesitate to contact me at vitthalbhandari98@gmail.com
 
