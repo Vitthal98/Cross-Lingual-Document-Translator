@@ -6,9 +6,9 @@ This project was completed in partial requirement of the course INFORMATION RETR
 In our assignment, we have implemented the code for IBM models 1 and 2 to create a translator and we have calculated our accuracy based on cosine similarity and jaccard coefficient.
 
 ## What is Cross-language information retrieval (CLIR)?
-```
-Cross-language information retrieval (CLIR) is a subfield of information retrieval dealing with retrieving information written in a language different from the language of the user's query.
-```
+
+> Cross-language information retrieval (CLIR) is a subfield of information retrieval dealing with retrieving information written in a language different from the language of the user's query.
+
 The IBM Models are a sequence of models with increasing complexity, starting with lexical translation probabilities, adding models for reordering and word duplication.
 In IBM models, a sentence aligned bilingual corpora is used. However, there is no alignment of words. 
 
@@ -19,7 +19,7 @@ In IBM Model 1, the only consideration is lexical translations of words which me
 Because IBM Model 1 does not consider the alignment of the words and takes all alignment probabilities equally, a new model was introduced by IBM which is IBM Model 2. In IBM Model 2, in addition to the lexical translation model, alignment probabilities were introduced for probability calculation. The result of IBM Model 2 outputs alignment probabilities and word translation probabilities.
 
 #### Want to know more?
-Please read the [design report](https://github.com/Vitthal98/Cross-Lingual-Document-Translator/blob/main/Design_Document.pdf) and [results document](https://github.com/Vitthal98/Cross-Lingual-Document-Translator/blob/main/Result%20Document.pdf) as they contain detailed information about the datasets used, methods implemented, results obtained and discussion.
+Please read the [problem statement](https://github.com/Vitthal98/Cross-Lingual-Document-Translator), [design report](https://github.com/Vitthal98/Cross-Lingual-Document-Translator/blob/main/Design_Document.pdf) and [results document](https://github.com/Vitthal98/Cross-Lingual-Document-Translator/blob/main/Result%20Document.pdf) as they contain detailed information about the datasets used, methods implemented, results obtained and discussion.
 
 For any doubts don't hesitate to contact me at vitthalbhandari98@gmail.com
 
